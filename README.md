@@ -1,38 +1,53 @@
 # Alex Albert
 
 Mathematician and cosmologist.  
-Founder and Director of the Mathematical Research Institute of Physical Reality (MRIPR).
+Founder and Director of the Mathematical Research Institute of Physical Reality — **MRIPR**.
 
-My work focuses on source identities, mathematical closure, formal verification, and epistemic-status auditing across mathematics, cosmology, physics, and AI-assisted science.
+My work centers on source identities, prime structure, mathematical closure, formal verification, and epistemic separation across mathematics, cosmology, physics, and AI-assisted science.
 
 ## Current work
 
-I am developing and releasing institutional mathematical and epistemic-audit repositories, including:
+### Source Identity of Prime Structure
 
-- **Source Identity of Prime Structure**  
-  A formal, symbolic, numerical, and custody-audited repository establishing the chain  
-  \[
-  \sigma \Longrightarrow \text{number structure} \Longrightarrow \operatorname{Irr}(\mathbb Z_{\ge2},M_\sigma)=\mathbb P.
-  \]
+My central mathematical work establishes the source identity of prime structure:
 
-- **Albert’s Epistemic Separation Principle**  
-  A methodology for preserving epistemic status across scientific, mathematical, and AI-assisted research:
-  **labels before evaluation; labels survive evaluation.**
+\[
+\sigma \Longrightarrow \text{number structure} \Longrightarrow \operatorname{Irr}(\mathbb Z_{\ge2},M_\sigma)=\mathbb P.
+\]
 
-## Research orientation
+The work develops the chain from the source identity \(\sigma\) to discrete source-step structure, curvature, multiplicative source composition, divisibility as \(M_\sigma\)-decomposition, and primality as source irreducibility.
 
-My work separates:
+Repositories include paper source, formal proofs, symbolic audits, numerical audits, adversarial checks, custody artefacts, and reproducibility records.
 
-- observation from interpretation;
-- postulate from ontology;
-- fit from identity;
-- framework-internal success from framework-independent closure;
-- theorem-output constructs from physical claims;
-- residual closure from empirical discovery.
+### Epistemic Separation
 
-The central standard is simple:
+I also developed **Epistemic Separation**: a status-ledger methodology for scientific, mathematical, and AI-assisted research.
 
-> Mathematical and scientific claims must be evaluated according to their actual epistemic status, not according to inherited grammar, institutional comfort, or framework continuity.
+Its core rule is:
+
+> Labels before evaluation. Labels survive evaluation.
+
+Scientific and mathematical claims must be evaluated according to their actual epistemic status. Observation, interpretation, postulate, framework-conditional inference, fit, residual closure, theorem-output construct, and identity-level closure are distinct categories. They cannot be collapsed into the same grammatical register without changing the status of the claim.
+
+Epistemic Separation is especially important for AI-assisted science, where inherited corpus language can preserve framework assumptions, convert residual closures into ontology, and turn framework-internal fit improvements into apparent discoveries.
+
+## Main repositories
+
+- **source-identity-of-prime-structure**  
+  Formal, symbolic, numerical, and custody repository for the source identity of prime structure.
+
+- **albert-epistemic-separation-principle**  
+  Methodology volume and source ledger for Epistemic Separation.
+
+## Research domains
+
+- prime structure and source arithmetic;
+- source identities and mathematical closure;
+- formal proof and proof-assistant custody;
+- cosmology and foundational physics;
+- observation/postulate/framework separation;
+- residual closure and ontology conversion;
+- AI-assisted science and epistemic-status preservation.
 
 ## Institute
 
